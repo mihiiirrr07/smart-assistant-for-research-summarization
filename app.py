@@ -44,7 +44,7 @@ def extract_text_from_file(uploaded_file):
         return ""
 
 # Streamlit UI
-st.title("📚 Smart Assistant GPT")
+st.title("📚 Research Summerization Assistant ")
 st.markdown("Upload a study document or paste your content below. The assistant will generate a summary and a few questions to help you understand it better.")
 
 uploaded_file = st.file_uploader("📂 Upload a document (TXT, PDF, DOCX)", type=["txt", "pdf", "docx"])
