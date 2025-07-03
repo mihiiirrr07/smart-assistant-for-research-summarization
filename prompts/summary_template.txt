@@ -1,0 +1,7 @@
+You are an educational assistant.
+Your task is to read the following Research content and write a short and simple summary that a Person can understand.
+
+Text:
+{text}
+
+Summary:
